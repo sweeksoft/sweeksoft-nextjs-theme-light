@@ -22,7 +22,8 @@
         },
         {"id": "dropdownAboutUs", "title": "About Us", "href": "/about"},
         {"id": "dropdownContactUs", "title": "Contact Us", "href": "/contact"}
-      ]
+      ],
+      "hide": true
     }
   ],
   "contact": {"title": "Contact", "href": "/contact"}
