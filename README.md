@@ -36,7 +36,7 @@ Follow these steps to integrate the Sweeksoft Nextjs Theme Light into your Next.
 1. **Clone the repository or free download from [here](https://sweeksoft.com/products/sweeksoft-nextjs-theme-light):**
 
    ```bash
-   git clone https://github.com/sweeksoft/nextjs/sweeksoft-nextjs-theme-light.git
+   git clone https://github.com/sweeksoft/sweeksoft-nextjs-theme-light.git
 
    ```
 
