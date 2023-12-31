@@ -4,17 +4,17 @@ A minimalistic and responsive Next.js theme for building clean and modern web ap
 
 ## Live Preview
 
-Check out the live preview of the Sweeksoft Nextjs Theme Light[here](https://vercel.com). You can also visit the theme link is [here](https://sweeksoft.com/products/sweeksoft-nextjs-theme-light).
+Check out the live preview of the Sweeksoft Nextjs Theme Light [here](https://vercel.com). You can also visit the theme link is [here](https://sweeksoft.com/products/sweeksoft-nextjs-theme-light).
 
 ## Images
-
-### Light Mode
-
-![Light Mode](light-mode-screenshot.png)
 
 ### Dark Mode
 
 ![Dark Mode](dark-mode-screenshot.png)
+
+### Light Mode
+
+![Light Mode](light-mode-screenshot.png)
 
 ## Features
 
