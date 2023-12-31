@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "title": "Sweeksoft Nextjs Theme Light",
+    "description": "Sweeksoft Nextjs Theme Light description",
+    "keywords": "Sweeksoft Nextjs Theme Light"
+  },
+  "sections": {
+    "hero": {
+      "slogan": "Explore Create Inspire",
+      "shortSlogan": "Explore tech excellence and insights in a dynamic digital landscape.",
+      "actionBtn": {
+        "title": "Hire Us",
+        "url": "/contact"
+      }
+    },
+    "demo": {
+      "title": "DEMO SECTION TITLE",
+      "subTitle": "A short description of demo section",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "image": {
+        "src": "/demo.png",
+        "alt": "Image alt"
+      },
+      "body": {}
+    }
+  }
+}

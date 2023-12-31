@@ -1,0 +1,53 @@
+{
+  "siteIdentity": {
+    "logo": {
+      "url": {"dark": "/logo-dark.svg", "light": "/logo-light.svg"},
+      "alt": "MySite logo",
+      "href": "/"
+    },
+    "title": "Sweeksoft Nextjs Theme Light",
+    "tagline": "Sweeksoft Nextjs Theme Light tagline",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  "contacts": [
+    {
+      "title": "Times Square, Manhattan, NY 10036, United States",
+      "icon": "PinDropRounded"
+    },
+    {
+      "title": "test@email.com",
+      "icon": "EmailRounded"
+    },
+    {
+      "title": "+1 222 555 666",
+      "icon": "PhoneRounded"
+    }
+  ],
+  "socialLinks": [
+    {
+      "link": "https://www.linkedin.com/company/sweeksoft",
+      "icon": "LinkedIn",
+      "color": "#007bb5"
+    },
+    {
+      "link": "https://github.com/sweeksoft",
+      "icon": "GitHub",
+      "color": "#dbdbdb"
+    },
+    {
+      "link": "https://www.facebook.com/sweeksoft",
+      "icon": "Facebook",
+      "color": "#1877f2"
+    },
+    {
+      "link": "https://twitter.com/sweeksoft",
+      "icon": "Twitter",
+      "color": "#1da1f2"
+    },
+    {
+      "link": "https://www.instagram.com/sweeksoft",
+      "icon": "Instagram",
+      "color": "#db3784"
+    }
+  ]
+}

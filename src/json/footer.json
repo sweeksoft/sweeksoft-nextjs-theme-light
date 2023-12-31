@@ -1,0 +1,26 @@
+{
+  "usefulLinks": {
+    "title": "Useful Links",
+    "links": [
+      {"title": "Contact", "url": "/contact"},
+      {"title": "Services", "url": "/services"},
+      {"title": "About Us", "url": "/about"}
+    ]
+  },
+  "usefulLinks2": {
+    "title": "Useful Links 2",
+    "links": [
+      {"title": "Contact", "url": "/contact"},
+      {"title": "Services", "url": "/services"},
+      {"title": "About Us", "url": "/about"}
+    ]
+  },
+  "getInTouch": {
+    "title": "Get In Touch"
+  },
+  "copyright": {
+    "name": "Sweeksoft",
+    "url": "https://www.sweeksoft.com",
+    "description": "2024, All rights are reserved by"
+  }
+}

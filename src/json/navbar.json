@@ -1,0 +1,29 @@
+{
+  "mainMenus": [
+    {"id": "services", "title": "Services", "href": "/services"},
+    {"id": "testimonial", "title": "Testimonial", "href": "/testimonial"},
+    {"id": "aboutUs", "title": "About", "href": "/about"},
+    {
+      "id": "contactUs",
+      "title": "Contact Us",
+      "href": "/contact",
+      "hide": true
+    },
+    {
+      "id": "dropdown",
+      "title": "Dropdown",
+      "href": "",
+      "children": [
+        {"id": "dropdownServices", "title": "Services", "href": "/services"},
+        {
+          "id": "dropdownTestimonial",
+          "title": "Testimonial",
+          "href": "/testimonial"
+        },
+        {"id": "dropdownAboutUs", "title": "About Us", "href": "/about"},
+        {"id": "dropdownContactUs", "title": "Contact Us", "href": "/contact"}
+      ]
+    }
+  ],
+  "contact": {"title": "Contact", "href": "/contact"}
+}
