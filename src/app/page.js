@@ -38,7 +38,7 @@ export default function Home() {
               textTransform: 'uppercase',
               pb: 4,
               wordWrap: 'break-word',
-              fontSize: {xs: 40, lg: 100},
+              fontSize: {xs: 40, lg: 70, xl: 90},
             }}
           >
             {json.sections.hero.slogan}
