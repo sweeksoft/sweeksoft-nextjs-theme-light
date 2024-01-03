@@ -30,11 +30,16 @@ export default function Contact() {
                 }
               />
             </Grid>
-            <Divider
-              orientation="vertical"
-              flexItem
-              sx={{m: 5}}
-            />
+            <Grid
+              item
+              md={1}
+              sx={{display: {xs: 'none', md: 'flex'}}}
+            >
+              <Divider
+                orientation="vertical"
+                sx={{m: 5}}
+              />
+            </Grid>
             <Grid
               item
               xs={12}
